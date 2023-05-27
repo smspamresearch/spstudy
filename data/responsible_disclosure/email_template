@@ -1,1 +1,9 @@
+Dear Developer,
 
+I am writing to you regarding my recent research on the effectiveness of SMS spam detectors. In my research project, I have consolidated SMS spam datasets for analyzing the effectiveness of currently proposed SMS spam detectors against different types of SMS messages, including benign and spam, and assessed their robustness against adversarial evaluation by introducing different types/levels of perturbations to fool or bypass the detectors. Your App, [APP NAME], is one of the many analyzed spam detectors. Our analysis results show that [APP NAME] achieves higher accuracy on the original spam messages, however, the accuracy dropped on manipulated examples. The attached document lists some examples where the [APP NAME] detected the unaltered spam messages but failed to detect the same spam messages when perturbed (see the attached document for manipulated examples).
+
+It would be great if you could illuminate the reasons behind the low accuracy of [APP NAME] on manipulated examples. I believe that this information could be valuable to you in improving the performance of your spam detectors and enhancing the security and privacy of your users.
+
+I am available to discuss our research findings and answer any questions. Thank you for your attention to this matter.
+
+Best regards,
