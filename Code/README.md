@@ -1,4 +1,4 @@
-Pre-processing.  
+**Pre-processing**.  
 language_filtering_langdetect.py: Filtering out non-Eglish SMS from dataset using Python’s langdetect library.  
 language_filtering_google.py: Filtering non-Eglish SMS from dataset using Python’s Googletrans library.  
 OCR_image_text.ipynb: Conversion of SMS screenshots (collected from twitter and scam observatories) to text.
