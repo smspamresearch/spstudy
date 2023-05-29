@@ -1,4 +1,4 @@
-Code for collecting, preprocessing, evaluating of ML-models.  
+Eliminating non-English SMSes.  
 language_filtering_langdetect.py: Filtering non-Eglish SMS from dataset using Python’s langdetect library.  
 language_filtering_google.py: Filtering non-Eglish SMS from dataset using Python’s Googletrans library.  
 
@@ -9,3 +9,4 @@ PU_TFIDF.ipynb: code for evaluation of Positive and Unlabelled with (PU) using B
 TCSVM_Semantic.ipynb: code for evaluation of TCSVM with Word2Vec and GloVe features.  
 OCSVM_Semantic.ipynb: code for evaluation of OCSVM with Word2Vec and GloVe features.  
 PU_Semantic.ipynb: code for evaluation of PU with Word2Vec and GloVe features.  
+fastText.ipynb: code for evaluation of fastText.  
