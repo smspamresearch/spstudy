@@ -19,6 +19,6 @@ LSTM_BiLSTM_CNN.ipynb: Evaluation of LSTM, BiLSTM and CNN.
 TCN: Evaluation of TCN with random, Word2Vec(static) and Word2Vec(dynamic) embeddings.  
 Ensemble (CNN-BiGRU): Evaluation of ensmeble approach with random, Word2Vec(static) and Word2Vec(dynamic) embeddings.
 
-**Misc**
+**Misc**  
 textAttack.ipynb: Generating adversarial examples (EDA, charswap) using textAttack framework.  
 sms_automation.py: Automating of SMS sending using Selenium.  
