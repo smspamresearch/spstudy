@@ -21,4 +21,4 @@ Ensemble (CNN-BiGRU): Evaluation of ensmeble approach with random, Word2Vec(stat
 
 **Misc**  
 textAttack.ipynb: Generating adversarial examples (EDA, charswap) using textAttack framework.  
-sms_automation.py: Automating of SMS sending using Selenium.  
+sms_automation.py: Automating SMS sending using Selenium.  
