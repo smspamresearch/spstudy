@@ -1,7 +1,8 @@
-**Pre-processing**.  
+**Pre-processing & Analysis**.  
 language_filtering_langdetect.py: Filtering out non-Eglish SMS from dataset using Python’s langdetect library.  
 language_filtering_google.py: Filtering non-Eglish SMS from dataset using Python’s Googletrans library.  
 OCR_image_text.ipynb: Conversion of SMS screenshots (collected from twitter and scam observatories) to text.
+feature_analysis.ipynb: URL and lexical analysis of SMSes.
 
 **Evaluation of Shallow Machine Learning models**  
 TCSVM_TFIDF.ipynb: Feature extraction and evaluation of two class SVM (TCSVM) with BoW, Bigram and Trigram features.  
