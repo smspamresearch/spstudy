@@ -1,6 +1,6 @@
 # Super SMS Dataset
 
-Please cite the following paper if you use our SMS corpus. Thanks!
+Please cite the following paper if you use our SMS corpus or data/code. Thanks!
 
 https://ieeexplore.ieee.org/document/10431737
 
